@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneel Thaker</h1>
-<h3 align="center">Passionate Software Developer with 1+ year experience in Python and MERN stack. Skilled in building responsive web apps using React, Node.js, MongoDB, and Express. Experienced in Oracle Apex, WordPress, and Shopify. Focused on scalable solutions, cloud integration, and machine learning to drive innovation in dynamic teams.</h3>
+<h3 align="left">Passionate Software Developer with 1+ year experience in Python and MERN stack. Skilled in building responsive web apps using React, Node.js, MongoDB, and Express. Experienced in Oracle Apex, WordPress, and Shopify. Focused on scalable solutions, cloud integration, and machine learning to drive innovation in dynamic teams.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneelthaker12" alt="praneelthaker12" /></a> </p>
 
