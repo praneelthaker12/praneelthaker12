@@ -1,11 +1,19 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Praneel Thaker</h1>
 <h3 align="center">Passionate Software Developer with 1+ year experience in Python and MERN stack. Skilled in building responsive web apps using React, Node.js, MongoDB, and Express. Experienced in Oracle Apex, WordPress, and Shopify. Focused on scalable solutions, cloud integration, and machine learning to drive innovation in dynamic teams.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneelthaker12" alt="praneelthaker12" /></a> </p>
+
 - 🌱 I’m currently learning **fullstack web development**
 
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
+
+- 🤝 I’m looking for help with **Fullstack development**
+
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Oracle Apex, Python ,Wordpress , Shopify**
+
 - 📫 How to reach me **praneelmthaker@gmail.com**
+
+- 📄 Know about my experiences [https://praneelthakerresume.tiiny.site/](https://praneelthakerresume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
