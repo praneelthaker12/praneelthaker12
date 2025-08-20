@@ -9,7 +9,7 @@
         <h1 align="left">Hi, I'm Praneel Thaker 👋</h1>
         <h3 align="left">A Passionate Software Developer specializing in Python and the MERN Stack.</h3>
         <p align="left">
-          I have 1+ year of experience building scalable, responsive web applications and a keen interest in cloud integration and machine learning. I thrive in dynamic team environments, focusing on creating innovative and efficient solutions.
+          I am a passionate Software Developer with a strong interest in web technologies. I have over a year of experience specializing in Python and the MERN stack to build custom, responsive websites and e-commerce platforms. Proficient in both frontend and backend development, I also have experience with CMS solutions like WordPress and Shopify
         </p>
         <p align="left">
           <a href="https://linkedin.com/in/praneelthaker12" target="_blank">
@@ -36,10 +36,13 @@
 
 ### 🚀 My Focus & Interests
 
-* **Currently Exploring:** I am diving deeper into **cloud-native solutions** and advanced **serverless architectures** to build more resilient and scalable applications.
-* **Collaboration:** I am always open to collaborating on innovative projects. If you're working on something exciting in the **MERN stack** or **Python**, let's connect!
-* **Ask Me About:** React, Node.js, Express, MongoDB, Python, Oracle APEX, and building RESTful APIs.
-* **Get in Touch:** You can reach me via [email](mailto:praneelmthaker@gmail.com) or find more details on my [resume](https://praneelthakerresume.tiiny.site/).
+* **Currently Exploring:** To further my goal of building scalable applications, I am diving deeper into cloud-native solutions and advanced serverless architectures to build more resilient and efficient systems.
+  
+* **Collaboration:** I am open to collaborating on innovative projects, especially those involving the MERN stack or Python. Let's connect if you're building custom e-commerce platforms or full-stack web applications.
+  
+* **Ask Me About:** Python , the MERN Stack (React, Node.js, MongoDB, Express) , Full-stack Development , CMS solutions like WordPress and Shopify , and building responsive e-commerce platforms
+  
+* **Get in Touch**: You can reach me via       [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:praneelmthaker@gmail.com) &nbsp;&nbsp;  or find more details on my [<img src="https://img.shields.io/badge/My_Resume-0077B5?style=for-the-badge&logo=read-the-docs&logoColor=white" />](https://praneelthakerresume.tiiny.site/)
 
 ---
 
