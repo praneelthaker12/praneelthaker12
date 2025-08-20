@@ -6,9 +6,9 @@
 Passionate Software Developer with 1+ year experience in Python and MERN stack. Skilled in building responsive web apps using React, Node.js, MongoDB, and Express. Experienced in Oracle Apex, WordPress, and Shopify. Focused on scalable solutions, cloud integration, and machine learning to drive innovation in dynamic teams.
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
+ <img align="right" alt="Coding" width="400"  src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" />
 <p align="left"> 
+  
   <img src="https://komarev.com/ghpvc/?username=praneelthaker12&label=Profile%20views&color=0e75b6&style=flat" alt="praneelthaker12" /> 
 </p>
 
@@ -126,7 +126,7 @@ Passionate Software Developer with 1+ year experience in Python and MERN stack. 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
 </p>
-
+<h2>Most Languages Used</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneelthaker12&show_icons=true&locale=en&layout=compact" alt="praneelthaker12" />
 </p>
