@@ -1,9 +1,9 @@
 ![Header](./header.png)
 
-<h1>My Background</h1>
+<h1>MY BACKGROUND </h1>
 
 <h3 align="left">
-Passionate Software Developer with 1+ year experience in Python and MERN stack. Skilled in building responsive web apps using React, Node.js, MongoDB, and Express. Experienced in Oracle Apex, WordPress, and Shopify. Focused on scalable solutions, cloud integration, and machine learning to drive innovation in dynamic teams.
+<b>Passionate Software Developer with 1+ year experience in Python and MERN stack. Skilled in building responsive web apps using React, Node.js, MongoDB, and Express. Experienced in Oracle Apex, WordPress, and Shopify. Focused on scalable solutions, cloud integration, and machine learning to drive innovation in dynamic teams.</b>
 </h3>
 
  <img align="right" alt="Coding" width="400"  src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" />
@@ -13,7 +13,7 @@ Passionate Software Developer with 1+ year experience in Python and MERN stack. 
 </p>
 
 <!-- Social Links Section -->
-### Connect with Me
+### CONNECT WITH ME :
 ---
 
 <p align="left">
@@ -41,7 +41,7 @@ Passionate Software Developer with 1+ year experience in Python and MERN stack. 
 
 <br>
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">LANGUAGES AND TOOL :</h1>
 
 <p align="left" style="line-height:50px;"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right:20px;">
@@ -126,7 +126,13 @@ Passionate Software Developer with 1+ year experience in Python and MERN stack. 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
 </p>
-<h2>Most Languages Used</h2>
+
+
+<h1>MOST LANGUAGES USED </h1>
+
+
 <p>
+
+ 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneelthaker12&show_icons=true&locale=en&layout=compact" alt="praneelthaker12" />
 </p>
