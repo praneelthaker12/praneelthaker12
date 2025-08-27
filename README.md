@@ -120,3 +120,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praneelthaker12&label=Profile%20views&color=0e75b6&style=flat-square" alt="praneelthaker12 Profile Views" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=praneelthaker12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
