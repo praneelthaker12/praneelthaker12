@@ -124,13 +124,9 @@
 <h2 align="center">My GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praneelthaker12&show_icons=true&theme=tokyonight&hide_border=true" alt="Praneel's GitHub Stats" />
   <img align="center" src="https://streak-stats.demolab.com/?user=praneelthaker12&theme=tokyonight&hide_border=true" alt="Praneel's GitHub Streak" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneelthaker12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="praneelthaker12 Top Languages" />
 </p>
-<br>
-<p align="center">
-  <img src="https://github-achievements.vercel.app/v1/praneelthaker12?theme=tokyonight" alt="Praneel's GitHub Achievements" />
-</p>
+
