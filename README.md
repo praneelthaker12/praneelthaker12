@@ -106,27 +106,31 @@
 
 ---
 
-<h2 align="center">My Most Used Technologies</h2>
-
-<p align="center">
-  <em>This chart is dynamically generated from my GitHub repository activity.</em>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneelthaker12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="praneelthaker12 Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praneelthaker12&label=Profile%20views&color=0e75b6&style=flat-square" alt="praneelthaker12 Profile Views" />
-</p>
 
 <h2 align="center">My GitHub Stats & Achievements</h2>
 
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=praneelthaker12&theme=tokyonight&hide_border=true" alt="Praneel's GitHub Streak" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneelthaker12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="praneelthaker12 Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneelthaker12&theme=highcontrast&hide_border=true" alt="Praneel Thaker's GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneelthaker12&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="Praneel Thaker's Top Languages" />
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" colspan="2">
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=praneelthaker12&custom_title=Praneel's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=B0B0B0&line=39FF14&point=39FF14&area_color=103E06&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" colspan="2">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneelthaker12&theme=github_dark&hide_border=true" alt="Praneel Thaker's Profile Summary"/>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praneelthaker12&label=Profile%20views&color=0e75b6&style=flat-square" alt="praneelthaker12 Profile Views" />
+</p>
