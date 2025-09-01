@@ -131,6 +131,16 @@
     </td>
   </tr>
 </table>
+
+---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praneelthaker12&label=Profile%20views&color=0e75b6&style=flat-square" alt="praneelthaker12 Profile Views" />
+  <strong>Open to collaboration and new opportunities. Let's connect.</strong>
+  <br><br>
+  <a href="https://linkedin.com/in/praneelthaker12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:praneelmthaker@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
