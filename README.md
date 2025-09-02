@@ -136,11 +136,25 @@
 <p align="center">
   <strong><img style="margin-top:4px;" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">Open to collaboration and new opportunities. Let's connect. <img style="margin-top:4px;" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> </strong>
   <br><br>
-  <a href="https://linkedin.com/in/praneelthaker12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:praneelmthaker@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/praneelthaker12" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:praneelmthaker@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://praneelthakerresume.tiiny.site/" target="blank">
+        <img src="https://img.shields.io/badge/My_Resume-0077B5?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="My Resume"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
+
+
